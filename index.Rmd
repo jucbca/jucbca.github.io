@@ -2,7 +2,7 @@
 title: "Juan Camilo Barbosa-Caro"
 ---
 
-
+<center>
 ![](images/FOTO.png){width=200}
 
 I am passionate about Biology, Agriculture, and technology
@@ -11,3 +11,4 @@ Among many other hobbies and passions, I my goal is to make out of these my prof
 
 Find here my short CV and contact details.
 I am always happy about making new contacts and open for discussions
+</center>
