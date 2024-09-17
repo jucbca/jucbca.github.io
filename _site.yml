@@ -1,0 +1,6 @@
+name: "CV"
+navbar:
+  title: "CV"
+  left:
+    - text: ""
+      href: index.html
