@@ -1,4 +1,4 @@
 ---
 title: "CV"
 ---
-![this is my CV](images/CV.complete.pdf){width=100% height=200}
+![this is my CV](images/CV.complete.pdf){width=80% height=50%}
