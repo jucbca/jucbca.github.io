@@ -1,7 +1,7 @@
 ---
 title: "Juan Camilo Barbosa-Caro, M.Sc."
 ---
-
+<body style="background-color:#e3e3c2 ;">
 
 <center>
 ![](images/FOTO.png){width=150}
