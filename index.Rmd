@@ -3,16 +3,18 @@ title: "Juan Camilo Barbosa-Caro, M.Sc."
 ---
 <body style="background-color:#e7e7e7 ;">
 
+
+
 <center>
 ![](images/FOTO.png){width=150}
 
-I am a problem solver, passionate about Biology, Agriculture, and technology. Constantly pursuing to grow in these fields.
+I am a problem solver, passionate about Biology, Agriculture, and technology.<br>
+Constantly pursuing to grow in these fields.
 
 Please find [my CV here](images/CV.complete.pdf)
 
 
 I am always grateful for new contacts and open for discussions.
-
-Contact me at<br> 
-[jucbca@gmail.com](mailto:jucbca@gmail.com)<br>
+Contact me at [jucbca@gmail.com](mailto:jucbca@gmail.com) <br>
+or find me on [LinkedIn](https://www.linkedin.com/in/juan-camilo-barbosa-caro/)
 </center>
