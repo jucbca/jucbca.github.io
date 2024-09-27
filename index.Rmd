@@ -8,7 +8,7 @@ title: "Juan Camilo Barbosa-Caro, M.Sc."
 <center>
 ![](images/FOTO.png){width=150}
 
-I am a problem solver, passionate about Biology, Agriculture, and technology.<br>
+I am a researcher, a problem solver, passionate about Biology, Agriculture, and technology.<br>
 Constantly pursuing to grow in these fields.
 
 Please find [my CV here](images/CV.Barbosa.pdf)
