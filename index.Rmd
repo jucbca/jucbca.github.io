@@ -8,8 +8,9 @@ title: "Juan Camilo Barbosa-Caro, M.Sc."
 <center>
 ![](images/FOTO.png){width=150}
 
+
+<font size="3">
 I am a researcher, a problem solver, passionate about Biology, Agriculture, and technology.<br>
-Constantly pursuing to grow in these fields.
 
 Please find [my CV here](images/CV.Barbosa.pdf)
 
@@ -17,4 +18,11 @@ Please find [my CV here](images/CV.Barbosa.pdf)
 I am always grateful for new contacts and open for discussions.
 Contact me at [jucbca@gmail.com](mailto:jucbca@gmail.com) <br>
 or find me on [LinkedIn](https://www.linkedin.com/in/juan-camilo-barbosa-caro/)
+</font>
 </center>
+
+
+
+<font size="0.8">
+This landing page was developed by me in Rstudio and hosted in Github pages
+</font>
