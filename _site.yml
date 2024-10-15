@@ -5,7 +5,7 @@ navbar:
     - text: ""
       href: index.html
     - text: "CV"
-      href: images/CV.complete.pdf
+      href: images/CV.Barbosa.pdf
 
 output_dir: "docs"
 output:
