@@ -15,9 +15,15 @@ I am a researcher, a data-driven problem solver, passionate about Biology, Agric
 Please find [my CV here](images/CV.Barbosa.pdf)
 
 
-I am always grateful for new contacts and open for discussions.
+I am always grateful for new contacts and open for discussions. <br>
 Contact me at [jucbca@gmail.com](mailto:jucbca@gmail.com) <br>
-or find me on [LinkedIn](https://www.linkedin.com/in/juan-camilo-barbosa-caro/)
+or find me on <br>
+
+[![](images/LinkedIn.png){width=30}](https://www.linkedin.com/in/juan-camilo-barbosa-caro/)
+[![](images/github.png){width=35}](https://github.com/jucbca)
+[![](images/orcid.png){width=35}](https://orcid.org/0000-0002-4101-6450)
+[![](images/prusa.png){width=38}](https://www.printables.com/@jucbca_1987625)
+
 </font>
 </center>
 
