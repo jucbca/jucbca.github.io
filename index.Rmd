@@ -27,7 +27,7 @@ or find me on <br>
 </font>
 </center>
 
- <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br>
 <font size="0.8">
 This landing page was developed by me in Rstudio and hosted in Github pages
 </font>
